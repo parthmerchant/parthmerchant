@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to the Lab
+### Welcome to my creative development space!
 
 My name is Parth! I'm currently pursuing my Masters in Computer Science at NYU Tandon School of Engineering in Brooklyn, NY
 
