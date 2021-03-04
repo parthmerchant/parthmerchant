@@ -2,5 +2,5 @@
 
 My name is Parth! I'm currently pursuing my Masters in Computer Science at NYU Tandon School of Engineering in Brooklyn, NY
 
-🔭 I’m currently learning Artificial Intelligence, Visual Analytics, Algorithmic Trading and Disruptive Technologies<br>
+🔭 I’m currently learning Artificial Intelligence, Visual Analytics, Algorithmic Trading, Cryptocurrencies and Disruptive Technologies<br>
 📫 How to reach me: Shoot me an email! parth@parthmerchant.com<br>
