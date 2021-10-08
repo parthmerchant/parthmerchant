@@ -1,6 +1,7 @@
 ### Welcome to my creative development space!
 
-My name is Parth! I'm currently pursuing my Masters in Computer Science at NYU Tandon School of Engineering in Brooklyn, NY
+My name is Parth!
 
-🔭 I’m currently learning Machine Learning, Visualization and Blockchain<br>
-📫 How to reach me: Shoot me an email! parth@parthmerchant.com<br>
+Currently...working alongside a brilliant team of engineers at Rokt NYC.
+Previously...M.S. Computer Science at New York University, pursuing advanced knowledge of Machine Learning, Visualization and Blockchain
+📫 How to reach me: Shoot me an email! parth@parthmerchant.com
