@@ -1,4 +1,4 @@
-### Welcome to my creative development space!
+### Welcome to my development space!
 
 My name is Parth!
 
