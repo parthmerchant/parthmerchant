@@ -6,4 +6,4 @@ My name is Parth!
 👨‍💻 Previously...M.S. Computer Science at New York University.<br><br>
 🤖 Forever...learning how to solve complex problems in software and Internet technologies.<br><br>
 💻 Code...in Python, JavaScript, C#, .NET Core, Go, Shell Scripting, React, Node.js, Markdown, Docker, Kubernetes & AWS.<br><br>
-📫 Feel free to reach me at parth@parthmerchant.com
+📫 Email...me at: parth@parthmerchant.com
