@@ -1,4 +1,4 @@
-## Parth Merchant
+## Parth Merchant 💎
 
 #### 👨🏽‍💻 I am...a Software Engineer with a passion for developing scalable, interactive and secure systems.
 #### 🦄 Currently...working alongside a brilliant team of engineers at Rokt NYC.<br>
